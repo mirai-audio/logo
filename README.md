@@ -2,7 +2,7 @@
 
 _logo for mirai.audio_
 
-![mirai.audio logo:svg](logo.svg)
+![mirai.audio logo:svg](logo.svg?raw=true)
 
 
 ## License
